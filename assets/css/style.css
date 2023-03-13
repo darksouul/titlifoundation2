@@ -553,6 +553,8 @@ h6 {
 @media (max-width: 768px) {
   #hero {
     height: 90vh;
+    background-image: url("../img/vector2.png") top left;
+    background-size: cover;
   }
 
   #hero h1 {
@@ -575,6 +577,8 @@ h6 {
 @media (max-height: 500px) {
   #hero {
     height: 100vh;
+    background-image: url("../img/vector2.png") top left;
+    background-size: cover;
   }
 }
 
