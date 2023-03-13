@@ -10,6 +10,7 @@
 # General
 --------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -1096,12 +1097,16 @@ h6 {
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
+    background: url("../img/vector2.png");
+    background-size: cover;
   }
 }
 
 @media (max-width: 768px) {
   #hero {
     height: 100vh;
+    background: url("../img/vector2.png");
+    background-size: cover;
   }
 
   #hero h1 {
@@ -1124,6 +1129,7 @@ h6 {
 @media (max-height: 500px) {
   #hero {
     height: 120vh;
+    background: url("../img/vector2.png");
+    background-size: cover;
   }
 }
-
