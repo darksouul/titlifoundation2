@@ -509,15 +509,16 @@ a:hover {
   }
 
   #hero h1 {
-    font-size: 28px;
+    font-size: 45px;
     line-height: 36px;
     font-family: 'Playfair Display', serif;
   }
 
   #hero h2 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 24px;
     margin-bottom: 30px;
+    font-weight: 400;
     font-family: 'poppins';
   }
 
