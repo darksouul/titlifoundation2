@@ -427,9 +427,9 @@ a:hover {
 
 #hero h1 {
   margin: 0;
-  font-size: 170px;
+  font-size: 50px;
   font-weight: 700;
-  line-height: 85px;
+  line-height: 70px;
   color: white;
   font-family: 'Playfair Display', serif;
 }
@@ -443,9 +443,9 @@ a:hover {
   margin: 5px 0 30px 0;
   font-family: 'Poppins';
   font-style: normal;
-  font-weight: 700;
-  font-size: 25px;
-  line-height: 34px;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 40px;
 }
 
 #hero .btn-get-started {
